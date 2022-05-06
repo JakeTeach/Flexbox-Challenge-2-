@@ -306,10 +306,9 @@ body {
     margin-right: 0.8rem;
     background-color: white;
 }
-/* .radio input:focus {
-    outline: .3rem solid rgba(107, 168, 247, 0.712);
-    border-radius: 50%;
-} */
+.radio input:focus {
+    outline: none;
+}
 .card-sec {
     display: flex;
     flex-direction: row;
